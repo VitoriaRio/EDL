@@ -5,7 +5,7 @@ Trabalho 00
 
 ####Informações Básicas:
 * Nome: Vitória Martins do Rio
-* Curso: Ciência da Computação \- 5º período
+* Curso: Ciência da Computação - 5º período
 * Universidade: UERJ
 
 ####Experiência Profissional:
