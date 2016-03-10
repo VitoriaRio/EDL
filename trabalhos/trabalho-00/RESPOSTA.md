@@ -1,22 +1,22 @@
-Universidade do Estado do Rio de Janeiro
-Curso: Ciência da Computação
-Disciplina: Estrutura de Linguagens
-Trabalho 00
+Universidade do Estado do Rio de Janeiro  
+Curso: CiÃªncia da ComputaÃ§Ã£o  
+Disciplina: Estrutura de Linguagens  
+Trabalho 00  
 
-####Informações Básicas:
-* Nome: Vitória Martins do Rio
-* Curso: Ciência da Computação \- 5º período
+####InformaÃ§Ãµes BÃ¡sicas:
+* Nome: VitÃ³ria Martins do Rio
+* Curso: CiÃªncia da ComputaÃ§Ã£o \- 5Âº perÃ­odo
 * Universidade: UERJ
 
-####Experiência Profissional:
-* 2014: Estágio interno complementar no LABIME/UERJ
- * Funções: Manutenção de computadores e atividades simples de suporte ao LABIME
+####ExperiÃªncia Profissional:
+* 2014: EstÃ¡gio interno complementar no LABIME/UERJ
+ * FunÃ§Ãµes: ManutenÃ§Ã£o de computadores e atividades simples de suporte ao LABIME
  * Orientador: Leandro Marzulo
-* 2015: Iniciação Científica - UERJ
- * Funções: Desenvolvimento de aplicação em android e webservice
+* 2015: IniciaÃ§Ã£o CientÃ­fica - UERJ
+ * FunÃ§Ãµes: Desenvolvimento de aplicaÃ§Ã£o em android e webservice
  * Orientador: Alexandre Sztajnberg
 
-####Áreas de Interesse:
+####Ãreas de Interesse:
 * Algoritmos em grafos
 * C
 * Java
