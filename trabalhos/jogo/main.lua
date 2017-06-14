@@ -70,7 +70,7 @@ contador = contador + dt
 			
 			--verifica se a cobra encostou nela mesma
 			for i , coords in ipairs(pontosCobra) do
-				if  i ~= 1 and i~=#pontosCobra and cobraX == coords.x and cobraY == coords.y then
+				if  i ~= 1 and cobraX == coords.x and cobraY == coords.y then
 					morreu = true
 				end
 			end
