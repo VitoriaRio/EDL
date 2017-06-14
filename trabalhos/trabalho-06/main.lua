@@ -143,16 +143,16 @@ function desenhaCobra(x, y)
 end
 
 function love.keypressed(key)
-    if key == 'right' or key == 'd' and direcao ~='esquerda' then
+    if (key == 'right' or key == 'd') and direcao ~='esquerda' then
         direcao = 'direita'
 
-    elseif key == 'left' or key == 'a' and direcao ~='direita' then
+    elseif (key == 'left' or key == 'a') and direcao ~='direita' then
         direcao = 'esquerda'
 		
-	elseif key == 'down' or key == 's' and direcao ~='cima' then
+	elseif (key == 'down' or key == 's') and direcao ~='cima' then
         direcao =  'baixo'
 
-    elseif key == 'up' or key == 'w' and direcao ~='baixo' then
+    elseif (key == 'up' or key == 'w') and direcao ~='baixo' then
         direcao = 'cima'
     end
 end
