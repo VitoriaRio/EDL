@@ -207,6 +207,6 @@ C:
 
 
 ## Bibliografia
-[Golang FAQ oficial](https://golang.org/doc/faq)
-[Wikipedia GO - Programming Language](https://en.wikipedia.org/wiki/Go_(programming_language))
-[Explicação sobre tipagem](http://www.josephspurrier.com/strong-weak-dynamic-and-static-typed-programming-languages/)
+[Golang FAQ oficial](https://golang.org/doc/faq) \
+[Wikipedia GO - Programming Language](https://en.wikipedia.org/wiki/Go_(programming_language)) \
+[Explicação sobre tipagem](http://www.josephspurrier.com/strong-weak-dynamic-and-static-typed-programming-languages/) 
